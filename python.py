@@ -209,7 +209,7 @@ def Database():       #Function to See whole Json File converted into python dic
             break
 
 
-#Function to Call all the Functions Specaifically made for operation
+#Function to Call all the Functions Specifically made for operation
 print("Welcome to CRUD with JSON")
 while True:
     print("\n1.Create","\n2.Read","\n3.Update","\n4.Delete\n5.Exit the Program\n6.Open Database(Admin)\n")
